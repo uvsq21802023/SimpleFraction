@@ -1,2 +1,0 @@
-# SimpleFraction
-# SimpleFraction
